@@ -26,7 +26,7 @@ const Header = () => {
             </li>
             <li className="inline-block p-2 cursor-pointer">
               <a
-                href="https://github.com/marieooq/neo-brutalism-ui-library"
+                href="https://github.com/Naveen-1043/neo-brutalism"
                 target="_blank"
               >
                 <img src={githubIcon} alt="github" className="w-6 h-6" />

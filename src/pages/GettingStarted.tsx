@@ -75,7 +75,7 @@ const GettingStarted = () => {
             and running Storybook. The instructions for how it works are
             described in{" "}
             <a
-              href="https://github.com/marieooq/neo-brutalism-ui-library"
+              href="https://github.com/Naveen-1043/neo-brutalism"
               target="_blank"
               className="underline font-bold "
             >

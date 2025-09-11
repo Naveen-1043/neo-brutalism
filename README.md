@@ -92,10 +92,3 @@ Your contributions are always welcome! Make a PR if you have any suggestions!:sm
 # License
 
 The MIT License
-
-# Acknowledgement
-
-This project is inspired by [Neo-Brutalism UI Kit](https://www.figma.com/community/file/1209478811951634271).
-Huge thanks to [Muhamad Digdaya](https://www.figma.com/@muhamaddigdaya)!!:star_struck:
-"# neo-brutalism" 
-# neo-brutalism

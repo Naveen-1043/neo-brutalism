@@ -11,7 +11,6 @@ import componentsData from "../data/componentsData";
 import SampleImage from "../assets/neo-brutalism-image1.jpg";
 import githubIcon from "../assets/github.svg";
 import IconButton from "../components/IconButton";
-
 type displayingComponentType = {
   name: string;
   path: string;

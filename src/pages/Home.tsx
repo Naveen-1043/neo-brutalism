@@ -161,11 +161,11 @@ const Home = () => {
             &copy;
             {`${new Date().getFullYear()} `}
             <a
-              href="https://linktr.ee/marieotaki"
+              href="https://www.linkedin.com/in/naveen-prajapati10"
               target="_blank"
               className="underline"
             >
-              Marie Otaki
+              Naveen Prajapati
             </a>
           </small>
         </div>
