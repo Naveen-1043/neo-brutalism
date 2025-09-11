@@ -66,7 +66,7 @@ const GettingStarted = () => {
             <strong>Note:</strong> If you are a React user, I highly recommend
             cloning{" "}
             <a
-              href="https://github.com/marieooq/neo-brutalism-ui-library"
+              href="https://github.com/Naveen-1043/neo-brutalism/"
               target="_blank"
               className="underline font-bold "
             >
